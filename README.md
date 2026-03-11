@@ -82,7 +82,7 @@ $$
 
 ## 3. Datasets
 
-The data preprocessing code is provided.
+The Goldwind dataset and the data preprocessing code are provided.
 
 ## 4. Usage
 
