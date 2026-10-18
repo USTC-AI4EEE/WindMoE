@@ -100,7 +100,14 @@ python run.py
 If you find our work useful in your research, please consider citing:
 
 ```latex
-
+@inproceedings{liu2026windmoe,
+  title={WindMoE: Mixture-of-Experts Method for Wind Power Forecasting under Extreme Weather Conditions},
+  author={Liu, Lei and Wang, Qi and Zhao, Hongwei and Guo, Ruibo and Huang, Jiahui and Liu, Tengyuan and Li, Bin},
+  booktitle={ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={3441--3445},
+  year={2026},
+  organization={IEEE}
+}
 ```
 
 If you have any problems, contact me via liulei13@ustc.edu.cn.
